@@ -1,12 +1,9 @@
 # Author: Callie Miaw
-# Homework Number & Name: 1 & Face Mask Store Sales
-# Due Date: September 10, 2020
 # Program Description: A local store wants to identify which face mask have the highest
 # profit margin and are the most popular.
-# They have hired you to update some of their systems.
-# Your first task is to create an application to record the sales and calculate profit for individual masks sold.
-# Write a program that accepts information from the user (a store clerk), calculates the total selling price, cost,
-# and profit, and displays a summary of the item sold.
+# They hired me to update some of their systems.
+# For this project, I created an application to record the sales and calculate profit for individual masks sold.
+
 
 def main():
     #gathering inputs
